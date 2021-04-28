@@ -1,0 +1,10 @@
+{
+  "name": "fat-cat-battle-simulator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "njegos.dev",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
